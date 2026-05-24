@@ -1,1 +1,3 @@
-# restaurant-ui-ux-project
+
+# Restaurant Website
+This is my restaurant UI/UX project
